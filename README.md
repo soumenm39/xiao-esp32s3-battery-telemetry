@@ -54,8 +54,6 @@ unsigned long myChannelNumber = YOUR_CHANNEL_NUMBER;
 const char *myWriteAPIKey = "YOUR_THINGSPEAK_WRITE_API_KEY";
 ```
 
-Do **not** commit real Wi-Fi passwords or ThingSpeak keys to a public repository. The API key previously shared in chat should be regenerated.
-
 ## Wi-Fi outage behavior
 
 The firmware retries Wi-Fi every 10 seconds. If the router is off for one hour or longer, the XIAO keeps running and measuring. When Wi-Fi returns, ThingSpeak uploads resume automatically, provided the XIAO remains powered.
