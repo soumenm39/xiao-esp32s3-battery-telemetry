@@ -74,6 +74,9 @@ as a temporary initial-test calibration. The installed CJMCU-219 has an R100 (0.
 
 This firmware is not a battery protection system. Keep the battery's BMS/protection circuit connected. Use a proper 1S Li-ion CC/CV charger. Never short-circuit the pack, bypass its BMS, or connect 5 V directly to a Li-ion cell. Do not leave an abnormal/damaged Li-ion pack charging unattended.
 
+<img width="1280" height="960" alt="photo_2026-10-07_23-20-17" src="https://github.com/user-attachments/assets/5ab77426-501f-486e-a370-02a1f94203b0" />
+
+
 ## Roadmap
 - R100-specific INA219 calibration
 - mAh/Wh accumulation
