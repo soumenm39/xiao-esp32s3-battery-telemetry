@@ -37,6 +37,8 @@ Expected INA219 address: `0x40`.
 | 4 | Shunt Voltage (mV) |
 | 5 | Status: 0 idle, 1 charging, 2 discharging |
 
+<img width="2074" height="1408" alt="image" src="https://github.com/user-attachments/assets/6d8762ff-84ce-4063-947e-3cbba6f9f62d" />
+
 ## Setup
 
 Install Arduino libraries:
