@@ -37,8 +37,6 @@ Expected INA219 address: `0x40`.
 | 4 | Shunt Voltage (mV) |
 | 5 | Status: 0 idle, 1 charging, 2 discharging |
 
-<img width="2074" height="1408" alt="image" src="https://github.com/user-attachments/assets/6d8762ff-84ce-4063-947e-3cbba6f9f62d" />
-
 ## Setup
 
 Install Arduino libraries:
@@ -76,6 +74,7 @@ This firmware is not a battery protection system. Keep the battery's BMS/protect
 
 <img width="2060" height="1370" alt="image" src="https://github.com/user-attachments/assets/8395eeb7-721a-4a7c-bd72-b944d05d5e2c" />
 
+<img width="1280" height="960" alt="photo_2026-10-07_23-20-17" src="https://github.com/user-attachments/assets/1f45f79d-c50f-4a48-8f13-a0da4ba6cd85" />
 
 
 ## Roadmap
