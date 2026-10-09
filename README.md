@@ -66,13 +66,14 @@ The code currently uses:
 ina219.setCalibration_32V_2A();
 ```
 
-as a temporary initial-test calibration. The installed CJMCU-219 has an R100 (0.1 ohm) shunt. Before using current, mAh, Wh or SOC as quantitative measurements, use an R100-specific calibration and verify it against a known reference.
+as a temporary initial test calibration. The installed CJMCU-219 has an R100 (0.1 ohm) shunt. Before using current, mAh, Wh or SOC as quantitative measurements, use an R100-specific calibration and verify it against a known reference.
 
 ## Battery safety
 
 This firmware is not a battery protection system. Keep the battery's BMS/protection circuit connected. Use a proper 1S Li-ion CC/CV charger. Never short-circuit the pack, bypass its BMS, or connect 5 V directly to a Li-ion cell. Do not leave an abnormal/damaged Li-ion pack charging unattended.
 
-<img width="2060" height="1370" alt="image" src="https://github.com/user-attachments/assets/8395eeb7-721a-4a7c-bd72-b944d05d5e2c" />
+<img width="2114" height="1372" alt="image" src="https://github.com/user-attachments/assets/e46ba2c6-cac9-4f72-b8d8-ad4bcf5aec6e" />
+
 
 <img width="1280" height="960" alt="photo_2026-10-07_23-20-17" src="https://github.com/user-attachments/assets/1f45f79d-c50f-4a48-8f13-a0da4ba6cd85" />
 
